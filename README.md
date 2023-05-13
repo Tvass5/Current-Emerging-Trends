@@ -7,7 +7,7 @@ For this course I was tasked with completing a treasure hunt game where the play
 # Connect your learning from throughout this course to the larger field of computer science:
 
 - What do computer scientists do and why does it matter?
-Computer scientists design, develop, and analyze the software and hardware used to solve problems in many differetn areas of life. They are aslo tasked with ensuring the effectiveness of many computer based systems. The job of a computer scientist is very important as they play a critical role in helping to revolutionze many of today industries such as, healthcare and education, through the development of various software systems.
+Computer scientists design, develop, and analyze the software and hardware used to solve problems in many different areas of life. They are aslo tasked with ensuring the effectiveness of many computer based systems. The job of a computer scientist is very important as they play a critical role in helping to revolutionze many of today industries such as, healthcare and education, through the development of various software systems.
 
 - How do I approach a problem as a computer scientist?
 As a computer scientis I approach many of my problems by first breaking them down and ensuring that I understand the problem. Next I ensure that I understand any constrainsts associated with the problem. Then I begin to brainstorm for a solution to the problem using any resourcs that are at my disposal. Lastly, I implement and and test the solution to ensure that it effectively solves the problem at hand. 
